@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BitCount
+  - BitPerSec
+  - Button1On
+  - Button1Off
+  - Button2On
+  - Button2Off
+  - Button3On
+  - Button3Off
+  - Button3Cloaked
+  - Button4On
+  - Button4Off
+  - Button4Cloaked
+  - Button5On
+  - Button5Off
+  - Button5Cloaked
+  - Button6On
+  - Button6Off
+  - Button6Cloaked
+  - Button7On
+  - Button7Off
+  - Button7Cloaked
+  - Button8On
+  - Button8Off
+  - Button8Cloaked
+  - Button9On
+  - Button9Off
+  - Button9Cloaked
+  - MainButton
+  - UpgradesCS
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 2195500265
+    locked: 0
